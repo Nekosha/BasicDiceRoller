@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicDiceRoller</string>
+    <string name="button.rollDice">ROLL!</string>
+    <string name="toast_diceRolled">Rick rolled!</string>
+</resources>
